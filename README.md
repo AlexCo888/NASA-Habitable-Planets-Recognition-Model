@@ -4,7 +4,7 @@
 
 All the information provided by the NASA Exoplanet Archive related to the Kepler Telescope was used and mapped according to properties set by specialists.
 
-The next values that indicate if a planet is habitable where applied to this model:
+The next values indicate if a planet is habitable (this variables where applied to this model):
 
 - The planet needs to be confirmed 🦕(not to be a candidate or false positive)
 - Stellar Flux must to be between 0.36 and 1.11 🌞(how much solar light the planet receives compared to the Earth)
